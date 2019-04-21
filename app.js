@@ -1,2 +1,5 @@
 var name='anis'
-console.log(name);
+console.log(name)
+
+var age=22
+console.log(age)
